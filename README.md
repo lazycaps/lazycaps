@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">- working on my minecraft server `bruhbridge.top`</p>
+<p align="left">- working on my minecraft server bruhbridge.top</p>
 
 ###
