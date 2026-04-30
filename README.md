@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">contact me @:<br>email: hello@bruhbridge.top<br>discord: lazycaps.</p>
+<p align="left">contact me @:<br>email: hello@lazycaps.top<br>discord: lazycaps.</p>
 
 ###
 
